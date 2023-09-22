@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pianonic
+- 👋 Hi, I’m @PianoNic
 - 👀 I’m interested in coding, gaming, playing Piano.
 - 🌱 I’m currently learning c#, Python, Java.
 - 💞️ I’m looking to collaborate on Nothing at the moment.
