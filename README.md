@@ -15,7 +15,7 @@ Currently exploring the coding horizons:
 - 🐍 Embracing the flexibility of Python
 - 🌐 Diving into the depths of web development, with a focus on HTML, CSS, JavaScript, and Angular
 - 🖨️ Tinkering with Marlin and honing my skills in building 3D printers.
-- ⚙️ Exploring Arduino, a fascinating world that has yet to unfold on my GitHub.
+- ⚙️ Exploring Arduino, a fascinating world.
 
 ### Collaboration
 💼 Open to potential collaborations, though my coding symphony currently takes center stage.
@@ -23,4 +23,3 @@ Currently exploring the coding horizons:
 ### Connect with Me
 📧 While I'm not actively seeking messages, you're welcome to explore my digital presence on [GitHub](https://github.com/PianoNic).
 
-Let the code resonate, the games captivate, the keys on the piano and keyboard tell their unique stories, the 3D printer hums to life in the background, and the Arduino sparks creativity in the unseen corners of my coding sanctuary. 🚀🎮🎹🖨️⚙️
