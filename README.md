@@ -32,4 +32,4 @@ Currently exploring the coding horizons:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pianonic&theme=dark" alt="pianonic" /></p>
 
-[![](https://komarev.com/ghpvc/?username=pianonic&label=Profile%20views&color=yellowgreen&style=for-the-badge)](https://github.com/Hutch79)
+[![](https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=yellowgreen&style=for-the-badge)](https://github.com/PianoNic)
