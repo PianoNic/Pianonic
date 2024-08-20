@@ -32,5 +32,4 @@ Currently exploring the coding horizons:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pianonic&theme=dark" alt="pianonic" /></p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pianonic)](https://github.com/anuraghazra/github-readme-stats)
-
+[![](https://komarev.com/ghpvc/?username=pianonic&label=Profile%20views&color=yellowgreen&style=for-the-badge)](https://github.com/Hutch79)
