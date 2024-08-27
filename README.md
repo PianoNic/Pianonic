@@ -21,7 +21,10 @@ With a growing passion for coding and technology, I’m excited to share my expe
   - **ASP.NET & Entity Framework:** Working with ASP.NET for building web applications and using Entity Framework for data access.
   - **Arduino:** Enjoying hands-on projects with Arduino to understand electronics and coding.
   - **3D Printing:** Experimenting with designing and printing custom objects.
-
+    
+- **Userscripts:**
+  - **School BBB Improvements:** Developing and sharing userscripts to enhance the functionality of the school’s BBB platform. Check out my collection of improvement extensions [here](https://github.com/BBBaden-Moodle-userscripts).
+  
 ## 🎮 Hobbies & Interests
 
 - **Piano:** Playing and composing music on the piano is a cherished hobby.
