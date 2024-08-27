@@ -23,7 +23,7 @@ With a growing passion for coding and technology, I’m excited to share my expe
   - **3D Printing:** Experimenting with designing and printing custom objects.
     
 - **Userscripts:**
-  - **School BBB Improvements:** Developing and sharing userscripts to enhance the functionality of the school’s BBB platform. Check out my collection of improvement extensions [here](https://github.com/BBBaden-Moodle-userscripts).
+  - **BBBaden Moodle Improvements:** Developing and sharing userscripts to enhance the functionality of the school’s BBBaden Moodle platform. Check out my collection of improvement extensions [here](https://github.com/BBBaden-Moodle-userscripts).
   
 ## 🎮 Hobbies & Interests
 
