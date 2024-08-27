@@ -1,6 +1,6 @@
 # 👋 Hi, I'm PianoNic!
 
-At 17 years old, I'm currently an apprentice in the tech world, eager to learn and explore new technologies. Here’s a glimpse into my journey and interests:
+I'm a 17-year-old apprentice diving into the world of technology and coding. I’m enthusiastic about learning and exploring new areas in tech. Here’s a bit about me and what I’m currently working on:
 
 ## 🌟 About Me
 
