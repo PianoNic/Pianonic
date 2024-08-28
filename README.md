@@ -1,4 +1,4 @@
-# [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][pats-website] Hi, I'm PianoNic!
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm PianoNic!
 
 I'm a 17-year-old apprentice diving into the world of technology and coding. I’m enthusiastic about learning and exploring new areas in tech. Here’s a bit about me and what I’m currently working on:
 
