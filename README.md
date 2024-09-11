@@ -21,10 +21,14 @@ With a growing passion for coding and technology, I’m excited to share my expe
   - **ASP.NET & Entity Framework:** Working with ASP.NET for building web applications and using Entity Framework for data access.
   - **Arduino:** Enjoying hands-on projects with Arduino to understand electronics and coding.
   - **3D Printing:** Experimenting with designing and printing custom objects.
-    
+
 - **Userscripts:**
   - **BBBaden Moodle Improvements:** Developing and sharing userscripts to enhance the functionality of the school’s BBBaden Moodle platform. Check out my collection of improvement extensions [here](https://github.com/BBBaden-Moodle-userscripts).
-  
+
+- **Active Projects:**
+  - **[BBBaden-Moodle-userscripts](https://github.com/BBBaden-Moodle-userscripts)**: A collection of custom scripts, themes, and tools designed to enhance the BBBaden Moodle experience. Our crew of developers is constantly working to improve the platform's functionality with personalized features and sleek interfaces. For installation instructions, follow our [Installation Guide](https://github.com/BBBaden-Moodle-userscripts/userscript-installation-guide/blob/main/README.md) and download our User Script Manager [here](https://github.com/BBBaden-Moodle-userscripts/BBBUserScriptManager).
+  - **[Nexuto](https://github.com/Nexuto)**: A modular tool for building AI-powered applications using a distributed architecture. Nexuto is designed with flexibility and scalability in mind, featuring a modular architecture, dynamic function discovery, resource optimization, and a visual interface. It’s ideal for AI applications, microservices, and distributed computing.
+
 ## 🎮 Hobbies & Interests
 
 - **Piano:** Playing the piano is a pastime of mine.
