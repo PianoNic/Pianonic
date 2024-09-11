@@ -26,7 +26,7 @@ With a growing passion for coding and technology, I’m excited to share my expe
   - **[BBBaden Moodle Improvements](https://github.com/BBBaden-Moodle-userscripts):** Enhancing BBBaden Moodle with custom scripts and tools. Check out our [Installation Guide](https://github.com/BBBaden-Moodle-userscripts/userscript-installation-guide/blob/main/README.md) and download the [User Script Manager](https://github.com/BBBaden-Moodle-userscripts/BBBUserScriptManager).
 
 - **Active Projects:** 
-  - **[Nexuto](https://github.com/Nexuto):** A modular tool for building AI-powered applications with a flexible, distributed architecture. Ideal for AI, microservices, and distributed computing.
+  - **[Nexuto](https://github.com/Nexuto):** A modular tool for building AI-powered applications with a flexible, distributed architecture. Ideal for AI and distributed computing.
 
 ## 🎮 Hobbies & Interests
 
