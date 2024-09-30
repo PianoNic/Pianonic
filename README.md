@@ -1,5 +1,5 @@
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Teko&weight=900&size=35&pause=1000&color=FFFFFF&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+PianoNic!" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Teko&weight=900&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+PianoNic!" alt="Typing SVG" /></a>
 </div>
 I'm a 17-year-old apprentice diving into the world of technology and coding. I’m enthusiastic about learning and exploring new areas in tech. Here’s a bit about me and what I’m currently working on:
 
