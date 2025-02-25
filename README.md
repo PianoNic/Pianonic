@@ -59,6 +59,6 @@ The ultimate temporary storage solution for quickly uploading all types of conte
 
 ### ⚡ **Connect With Me**  
 
-💬 **Discord:** [PianoNic#5662](https://discord.com/users/566263212077481984)  
+💬 **Discord:** [PianoNic](https://discord.com/users/566263212077481984)  
 
 [![](https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=yellowgreen&style=for-the-badge)](https://github.com/PianoNic)  
