@@ -36,8 +36,8 @@ My custom-built Discord music bot with awesome AI-powered features!
 #### ⚡ [ArgonFetch](https://github.com/Pianonic/ArgonFetch)  
 A Tool to easily download a wide variety of media files from multiple sources.
 
-#### 🛠 [Ultra-Bin](https://github.com/Ultra-Bin)  
-The Ultimate Temp Bin for all sort of content.
+#### 🛠 [Ultra-Bin](https://github.com/Ultra-Bin) 
+The ultimate temporary storage solution for quickly uploading all types of content.
 
 ---
 
