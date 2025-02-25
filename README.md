@@ -24,12 +24,20 @@
 
 ### 📌 **Projects**  
 
-#### 🎓 **[BBBaden Moodle Improvements](https://github.com/BBBaden-Moodle-userscripts)**  
-Custom scripts & tools for a better Moodle experience.  
-🔗 [Installation Guide](https://github.com/BBBaden-Moodle-userscripts/userscript-installation-guide/blob/main/README.md)
+#### 🎓 [BBBaden Moodle Improvements](https://github.com/BBBaden-Moodle-userscripts)  
+Enhancing Moodle with custom scripts and tools for a smoother experience.
 
-#### 🤖 **[Nexuto](https://github.com/Nexuto)**  
-A modular tool for AI-powered applications with distributed computing.
+#### 🤖 [Nexuto](https://github.com/Nexuto)  
+A modular AI-powered tool for easy automation.  
+
+#### 🎵 [PianoNicsMusic](https://github.com/Pianonic/PianoNicsMusic)  
+My custom-built Discord music bot with awesome AI-powered features!
+
+#### ⚡ [ArgonFetch](https://github.com/Pianonic/ArgonFetch)  
+A Tool to easily download a wide variety of media files from multiple sources.
+
+#### 🛠 [Ultra-Bin](https://github.com/Ultra-Bin)  
+The Ultimate Temp Bin for all sort of content.
 
 ---
 
