@@ -41,7 +41,7 @@ A modular tool for AI-powered applications with distributed computing.
 ### 📊 **Stats**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pianonic&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pianonic&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pianonic&theme=dark" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pianonic&show_icons=true&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
