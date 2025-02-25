@@ -10,7 +10,7 @@
 🔹 Passionate about **coding**, **tech**, and **music**  
 🔹 Learning **C# (ASP.NET, EF Core)** & **Angular**  
 🔹 Exploring **Arduino**, **3D Printing**, and **AI**  
-🔹 Creator of **[BBBaden Moodle Improvements](https://github.com/BBBaden-Moodle-userscripts)**  
+🔹 Owner of **[BBBaden Moodle Improvements](https://github.com/BBBaden-Moodle-userscripts)**  
 🔹 Working on **[Nexuto](https://github.com/Nexuto) - AI-powered modular tools**  
 
 ---
