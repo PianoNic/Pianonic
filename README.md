@@ -55,9 +55,10 @@ The ultimate temporary storage solution for quickly uploading all types of conte
 
 ---
 
-### ⚡ **Connect With Me**  
 📌 Check out **[HelpfulStuff.md](https://github.com/Pianonic/Pianonic/blob/main/HelpfulStuff.md)** for more insights.  
 
-[![](https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=yellowgreen&style=for-the-badge)](https://github.com/PianoNic)  
+### ⚡ **Connect With Me**  
 
 💬 **Discord:** [PianoNic#5662](https://discord.com/users/566263212077481984)  
+
+[![](https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=yellowgreen&style=for-the-badge)](https://github.com/PianoNic)  
