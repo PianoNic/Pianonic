@@ -42,7 +42,7 @@ The ultimate temporary storage solution for quickly uploading all types of conte
 ---
 
 ### 🎮 **Hobbies & Interests**  
-🎹 Piano | 🎧 Music Production | 🎮 Gaming | 🔩 Arduino Tinkering  
+🎹 Piano | 🎧 Music Production | 🎮 Gaming
 
 ---
 
