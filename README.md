@@ -41,6 +41,12 @@ The ultimate temporary storage solution for quickly uploading all types of conte
 
 ---
 
+### 📝 **Cheat Sheets**  
+
+📌  **[HelpfulStuff.md](https://github.com/Pianonic/Pianonic/blob/main/HelpfulStuff.md)**
+
+---
+
 ### 🎮 **Hobbies & Interests**  
 🎹 Piano | 🎧 Music Production | 🎮 Gaming
 
@@ -57,8 +63,6 @@ The ultimate temporary storage solution for quickly uploading all types of conte
 </p>
 
 ---
-
-📌 Check out **[HelpfulStuff.md](https://github.com/Pianonic/Pianonic/blob/main/HelpfulStuff.md)** for more insights.  
 
 ### ⚡ **Connect With Me**  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/566263212077481984) 
