@@ -51,6 +51,9 @@ The ultimate temporary storage solution for quickly uploading all types of conte
   <img src="https://github-readme-stats.vercel.app/api?username=pianonic&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=pianonic&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pianonic&show_icons=true&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/PianoNic">
+    <img src="https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=yellowgreen&style=for-the-badge" alt="Profile views">
+  </a>
 </p>
 
 ---
@@ -59,6 +62,3 @@ The ultimate temporary storage solution for quickly uploading all types of conte
 
 ### ⚡ **Connect With Me**  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/566263212077481984) 
-
-
-[![](https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=yellowgreen&style=for-the-badge)](https://github.com/PianoNic)  
