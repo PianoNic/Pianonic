@@ -43,7 +43,7 @@ The ultimate temporary storage solution for quickly uploading all types of conte
 
 ### 📝 **Cheat Sheets**  
 
-📌  **[HelpfulStuff.md](https://github.com/Pianonic/Pianonic/blob/main/HelpfulStuff.md)**
+🔗 **[HelpfulStuff.md](https://github.com/Pianonic/Pianonic/blob/main/HelpfulStuff.md)**
 
 ---
 
