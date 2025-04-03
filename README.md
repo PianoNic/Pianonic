@@ -54,7 +54,7 @@
 ### 🛠 [ArgonBin](https://github.com/ArgonFetch/ArgonBin)
 > The **ultimate temporary storage solution** for quickly uploading and sharing all types of content.
 
-#### 📂 **More Projects**
+### 📂 **More Projects**
 🔗 [View all my repositories](https://github.com/Pianonic?tab=repositories)
 
 ---
