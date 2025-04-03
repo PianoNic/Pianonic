@@ -36,23 +36,31 @@
 
 ### 📌 **Projects**  
 
-#### 🐋 [DockiUp](https://github.com/Pianonic/DockiUp)  
-A simple tool to update Docker containers built from Git repositories.
+### 🐋 [DockiUp](https://github.com/Pianonic/DockiUp)
+> **Easily update Docker containers** built from Git repositories with this lightweight and efficient tool.
 
-#### ⚡ [ArgonFetch](https://github.com/Pianonic/ArgonFetch)  
-A Tool to easily download a wide variety of media files from multiple sources.
+### ⚡ [ArgonFetch](https://github.com/Pianonic/ArgonFetch)
+> A **powerful media downloader** that supports multiple sources, making content retrieval seamless and easy.
 
-#### 🎵 [PianoNicsMusic](https://github.com/Pianonic/PianoNicsMusic)  
-My custom-built Discord music bot with awesome AI-powered features!
+### 🎵 [PianoNicsMusic](https://github.com/Pianonic/PianoNicsMusic)
+> My **AI-powered Discord music bot** packed with awesome features to enhance your server's music experience.
 
-#### 🎓 [BBBaden Moodle Improvements](https://github.com/BBBaden-Moodle-userscripts)  
-Enhancing Moodle with custom scripts and tools for a smoother experience.
+### 🎓 [BBBaden Moodle Improvements](https://github.com/BBBaden-Moodle-userscripts)
+> **Enhancing Moodle** with custom scripts and tools for a smoother and more productive experience.
 
-#### 🤖 [Nexuto](https://github.com/Nexuto)  
-A modular AI-powered tool for easy automation.  
+### 🤖 [Nexuto](https://github.com/Nexuto)
+> A **modular AI-powered automation tool**, designed for flexibility and ease of use.
 
-#### 🛠 [ArgonBin](https://github.com/ArgonFetch/ArgonBin)  
-The ultimate temporary storage solution for quickly uploading all types of content.
+### 🛠 [ArgonBin](https://github.com/ArgonFetch/ArgonBin)
+> The **ultimate temporary storage solution** for quickly uploading and sharing all types of content.
+
+#### 📂 **More Projects**
+🔗 [View all my repositories](https://github.com/Pianonic?tab=repositories)
+
+---
+
+💡 Have ideas, suggestions, or want to contribute? Open an issue or reach out!
+
 
 ---
 
