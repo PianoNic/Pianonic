@@ -36,23 +36,23 @@
 
 ### 📌 **Projects**  
 
+#### 🐋 [DockiUp](https://github.com/Pianonic/DockiUp)  
+A simple tool to update Docker containers built from Git repositories.
+
+#### ⚡ [ArgonFetch](https://github.com/Pianonic/ArgonFetch)  
+A Tool to easily download a wide variety of media files from multiple sources.
+
+#### 🎵 [PianoNicsMusic](https://github.com/Pianonic/PianoNicsMusic)  
+My custom-built Discord music bot with awesome AI-powered features!
+
 #### 🎓 [BBBaden Moodle Improvements](https://github.com/BBBaden-Moodle-userscripts)  
 Enhancing Moodle with custom scripts and tools for a smoother experience.
 
 #### 🤖 [Nexuto](https://github.com/Nexuto)  
 A modular AI-powered tool for easy automation.  
 
-#### 🎵 [PianoNicsMusic](https://github.com/Pianonic/PianoNicsMusic)  
-My custom-built Discord music bot with awesome AI-powered features!
-
-#### ⚡ [ArgonFetch](https://github.com/Pianonic/ArgonFetch)  
-A Tool to easily download a wide variety of media files from multiple sources.
-
 #### 🛠 [ArgonBin](https://github.com/ArgonFetch/ArgonBin)  
 The ultimate temporary storage solution for quickly uploading all types of content.
-
-#### 🐋 [DockiUp](https://github.com/Pianonic/DockiUp)  
-A simple tool to update Docker containers built from Git repositories.
 
 ---
 
