@@ -2,6 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Sigmar&weight=900&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+PianoNic!" alt="Typing SVG" />
   
   <strong>18-year-old apprentice exploring the world of coding & technology</strong>  
+  
+  [![GitHub followers](https://img.shields.io/github/followers/PianoNic?style=social)](https://github.com/PianoNic)
+  [![Profile Views](https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=yellowgreen&style=flat)](https://github.com/PianoNic)
 </div>
 
 ---
@@ -16,9 +19,9 @@
 ---
 
 ### 🛠 **Skills & Tech Stack**  
-💻 **Languages:** C# | Python | JavaScript | TypeScript  
-🌐 **Web Dev:** Angular | HTML | CSS | ASP.NET  
-📡 **Other:** Arduino | 3D Printing | Linux | Git | SQLite  
+💻 **Languages:** ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
+🌐 **Web Dev:** ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)  
+📡 **Other:** ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![3D Printing](https://img.shields.io/badge/-3D%20Printing-orange?style=flat-square) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)  
 
 ---
 
@@ -36,10 +39,10 @@ My custom-built Discord music bot with awesome AI-powered features!
 #### ⚡ [ArgonFetch](https://github.com/Pianonic/ArgonFetch)  
 A Tool to easily download a wide variety of media files from multiple sources.
 
-#### 🛠 [ArgonBin](https://github.com/ArgonFetch/ArgonBin) 
+#### 🛠 [ArgonBin](https://github.com/ArgonFetch/ArgonBin)  
 The ultimate temporary storage solution for quickly uploading all types of content.
 
-#### 🐋 [DockiUp](https://github.com/Pianonic/DockiUp) 
+#### 🐋 [DockiUp](https://github.com/Pianonic/DockiUp)  
 A simple tool to update Docker containers built from Git repositories.
 
 ---
@@ -51,21 +54,19 @@ A simple tool to update Docker containers built from Git repositories.
 ---
 
 ### 🎮 **Hobbies & Interests**  
-🎹 Piano | 🎧 Music Production | 🎮 Gaming
+🎹 Piano | 🎧 Music Production | 🎮 Gaming  
 
 ---
 
 ### 📊 **Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pianonic&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=pianonic&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pianonic&show_icons=true&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  <a href="https://github.com/PianoNic">
-    <img src="https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=yellowgreen&style=for-the-badge" alt="Profile views">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=pianonic&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=pianonic&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pianonic&show_icons=true&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### ⚡ **Connect With Me**  
-[![Discord](https://img.shields.io/badge/Discord-%23616ae8.svg?logo=discord&logoColor=white)](https://discord.com/users/566263212077481984) 
+[![Discord](https://img.shields.io/badge/Discord-%23616ae8.svg?logo=discord&logoColor=white)](https://discord.com/users/566263212077481984)
+
