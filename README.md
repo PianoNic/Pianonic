@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 **About Me**  
+## 🚀 **About Me**  
 🔹 Passionate about **coding**, **tech**, and **music**  
 🔹 Learning **C# (ASP.NET, EF Core)** & **Angular**  
 🔹 Exploring **Arduino**, **3D Printing**, and **AI**  
@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠 **Skills, Tech Stack & IDEs**  
+## 🛠 **Skills, Tech Stack & IDEs**  
 <div align="center">
 
 | Category | Technologies & Tools |
@@ -34,7 +34,7 @@
 
 ---
 
-### 📌 **Projects**  
+## 📌 **Projects**  
 
 ### 🐋 [DockiUp](https://github.com/Pianonic/DockiUp)
 > **Easily update Docker containers** built from Git repositories with this lightweight and efficient tool.
@@ -59,23 +59,18 @@
 
 ---
 
-💡 Have ideas, suggestions, or want to contribute? Open an issue or reach out!
-
-
----
-
-### 📝 **Cheat Sheets**  
+## 📝 **Cheat Sheets**  
 
 🔗 **[HelpfulStuff.md](https://github.com/Pianonic/Pianonic/blob/main/HelpfulStuff.md)**
 
 ---
 
-### 🎮 **Hobbies & Interests**  
+## 🎮 **Hobbies & Interests**  
 🎹 Piano | 🎧 Music Production | 🎮 Gaming  
 
 ---
 
-### 📊 **Stats**  
+## 📊 **Stats**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pianonic&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=pianonic&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
@@ -84,6 +79,6 @@
 
 ---
 
-### ⚡ **Connect With Me**  
+## ⚡ **Connect With Me**  
 [![Discord](https://img.shields.io/badge/Discord-%23616ae8.svg?logo=discord&logoColor=white)](https://discord.com/users/566263212077481984)
 
