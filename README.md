@@ -78,7 +78,6 @@
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=pianonic&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pianonic&show_icons=true&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=jfa21n9zlnd88v0g63sqm9n9q)
 
 ---
 
