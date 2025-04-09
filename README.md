@@ -3,11 +3,10 @@
   
   <strong>18-year-old apprentice exploring the world of coding & technology</strong>  
   
-  [![GitHub followers](https://img.shields.io/github/followers/PianoNic?style=social)](https://github.com/PianoNic)
-  [![GitHub stars](https://img.shields.io/github/stars/PianoNic?style=social)](https://github.com/PianoNic)
-  [![GitHub forks](https://img.shields.io/github/forks/PianoNic?style=social)](https://github.com/PianoNic)
-  [![GitHub issues](https://img.shields.io/github/issues/PianoNic?style=social)](https://github.com/PianoNic)
-  [![GitHub pull requests](https://img.shields.io/github/issues-pr/PianoNic?style=social)](https://github.com/PianoNic)
+  ![Profile Views](https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=yellowgreen&style=flat)
+  ![GitHub followers](https://img.shields.io/github/followers/PianoNic?label=Followers&style=social)
+  ![GitHub User's stars](https://img.shields.io/github/stars/PianoNic?style=social)
+  ![GitHub User's forks](https://img.shields.io/github/forks/PianoNic/PianoNic?style=social)
 </div>
 
 ---
