@@ -36,7 +36,7 @@
 
 ---
 
-### 📌 **Projects**  
+### 📌 **Active Projects**  
 
 | Icon | Project | Description |
 |:----:|:--------|:------------|
