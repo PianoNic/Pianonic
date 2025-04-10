@@ -55,8 +55,8 @@
 ---
 
 ### 🎮 **Hobbies & Interests**  
-🎹 Piano | 🎧 Music Production | 🎮 Gaming  
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-pianonic__music-ff5500?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/pianonic_music)
+🎹 Piano | 🎧 Music Production [![SoundCloud](https://img.shields.io/badge/SoundCloud-pianonic__music-ff5500?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/pianonic_music)
+ | 🎮 Gaming  
 
 ---
 
