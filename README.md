@@ -38,26 +38,13 @@
 
 ### 📌 **Projects**  
 
-#### 🐋 [DockiUp](https://github.com/Pianonic/DockiUp)
-> **Easily update Docker containers** built from Git repositories with this lightweight and efficient tool.
-
-#### ⚡ [ArgonFetch](https://github.com/Pianonic/ArgonFetch)
-> A **powerful media downloader** that supports multiple sources, making content retrieval seamless and easy.
-
-#### 🎵 [PianoNicsMusic](https://github.com/Pianonic/PianoNicsMusic)
-> My **AI-powered Discord music bot** packed with awesome features to enhance your server's music experience.
-
-#### 🎓 [BBBaden Moodle Improvements](https://github.com/BBBaden-Moodle-userscripts)
-> **Enhancing Moodle** with custom scripts and tools for a smoother and more productive experience.
-
-#### 🤖 [Nexuto](https://github.com/Nexuto)
-> A **modular AI-powered automation tool**, designed for flexibility and ease of use.
-
-#### 🛠 [ArgonBin](https://github.com/ArgonFetch/ArgonBin)
-> The **ultimate temporary storage solution** for quickly uploading and sharing all types of content.
-
-#### 📂 **More Projects**
-🔗 [View all my repositories](https://github.com/Pianonic?tab=repositories)
+| Icon | Project | Description |
+|:----:|:--------|:------------|
+| ![DockiUp Icon](https://github.com/Pianonic/DockiUp/raw/main/assets/DockiUpLogo.png) | [**DockiUp**](https://github.com/Pianonic/DockiUp) | Easily update Docker containers built from Git repositories with this lightweight and efficient tool. |
+| ![ArgonFetch Icon](https://github.com/ArgonFetch/ArgonFetch/raw/main/assets/logo-simple.svg) | [**ArgonFetch**](https://github.com/Pianonic/ArgonFetch) | A powerful media downloader that supports multiple sources, making content retrieval seamless and easy. |
+| ![PianoNicsMusic Icon](https://github.com/Pianonic/PianoNicsMusic/raw/main/image/Logo.png?raw=true) | [**PianoNicsMusic**](https://github.com/Pianonic/PianoNicsMusic) | My AI-powered Discord music bot packed with awesome features to enhance your server's music experience. |
+| ![Moodle Icon](https://avatars.githubusercontent.com/u/146342978?s=200&v=4) | [**BBBaden Moodle Improvements**](https://github.com/BBBaden-Moodle-userscripts) | Enhancing Moodle with custom scripts and tools for a smoother and more productive experience. |
+| ![More Projects Icon](https://static-00.iconduck.com/assets.00/git-gui-icon-512x512-jfx5ogbu.png) | **More Projects**<br>[View all my repositories](https://github.com/Pianonic?tab=repositories) | A complete list of everything I’ve worked on—check it out for more tools, scripts, and ideas. |
 
 ---
 
