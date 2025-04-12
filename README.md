@@ -11,13 +11,13 @@
 
 ---
 
-### 🚀 **About Me**
-🔹 Passionate about **coding**, **tech**, and **music**
-🔹 Learning **C# (ASP.NET, EF Core)** & **Angular**
-🔹 Exploring **Arduino**, **3D Printing**, and **AI**
-🔹 Owner of **[BBBaden Moodle Improvements](https://github.com/BBBaden-Moodle-userscripts)**
-🔹 Working on **[ArgonFetch](https://github.com/Pianonic/ArgonFetch) - Universal Media Downloader**
-🔹 Working on **[DockiUp](https://github.com/Pianonic/DockiUp) - Docker Container Updater**
+### 🚀 **About Me**  
+🔹 Passionate about **coding**, **tech**, and **music**  
+🔹 Learning **C# (ASP.NET, EF Core)** & **Angular**  
+🔹 Exploring **Arduino**, **3D Printing**, and **AI**  
+🔹 Owner of **[BBBaden Moodle Improvements](https://github.com/BBBaden-Moodle-userscripts)**  
+🔹 Working on **[ArgonFetch](https://github.com/Pianonic/ArgonFetch) - Universal Media Downloader**  
+🔹 Working on **[DockiUp](https://github.com/Pianonic/DockiUp) - Docker Container Updater**  
 
 ---
 
@@ -63,10 +63,9 @@
 
 ### 🎧 **Currently Listening on Spotify**
 <div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=jfa21n9zlnd88v0g63sqm9n9q&redirect=true">
-    {/* Changed theme to github_dark */}
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jfa21n9zlnd88v0g63sqm9n9q&cover_image=true&theme=github_dark&show_offline=false&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
+   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=jfa21n9zlnd88v0g63sqm9n9q&redirect=true">
+     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jfa21n9zlnd88v0g63sqm9n9q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+   </a>
 </div>
 
 ---
