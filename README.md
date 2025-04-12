@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Sigmar&weight=900&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+PianoNic!" alt="Typing SVG" />
-  
-  <strong>18-year-old apprentice exploring the world of coding & technology</strong>  
-  
+
+  <strong>18-year-old apprentice exploring the world of coding & technology</strong>
+
   ![Profile Views](https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=yellowgreen&style=flat)
   ![GitHub followers](https://img.shields.io/github/followers/PianoNic?label=Followers&style=social)
   ![GitHub User's stars](https://img.shields.io/github/stars/PianoNic?style=social)
@@ -11,17 +11,17 @@
 
 ---
 
-### 🚀 **About Me**  
-🔹 Passionate about **coding**, **tech**, and **music**  
-🔹 Learning **C# (ASP.NET, EF Core)** & **Angular**  
-🔹 Exploring **Arduino**, **3D Printing**, and **AI**  
-🔹 Owner of **[BBBaden Moodle Improvements](https://github.com/BBBaden-Moodle-userscripts)**  
-🔹 Working on **[ArgonFetch](https://github.com/Pianonic/ArgonFetch) - Universal Media Downloader**  
-🔹 Working on **[DockiUp](https://github.com/Pianonic/DockiUp) - Docker Container Updater**  
+### 🚀 **About Me**
+🔹 Passionate about **coding**, **tech**, and **music**
+🔹 Learning **C# (ASP.NET, EF Core)** & **Angular**
+🔹 Exploring **Arduino**, **3D Printing**, and **AI**
+🔹 Owner of **[BBBaden Moodle Improvements](https://github.com/BBBaden-Moodle-userscripts)**
+🔹 Working on **[ArgonFetch](https://github.com/Pianonic/ArgonFetch) - Universal Media Downloader**
+🔹 Working on **[DockiUp](https://github.com/Pianonic/DockiUp) - Docker Container Updater**
 
 ---
 
-### 🛠 **Skills, Tech Stack & IDEs**  
+### 🛠 **Skills, Tech Stack & IDEs**
 <div align="center">
 
 | Category | Technologies & Tools |
@@ -36,7 +36,7 @@
 
 ---
 
-### 📌 **Active Projects**  
+### 📌 **Active Projects**
 
 | Icon | Project | Description |
 |:----:|:--------|:------------|
@@ -48,20 +48,24 @@
 
 ---
 
-### 📝 **Cheat Sheets**  
+### 📝 **Cheat Sheets**
 
 🔗 **[HelpfulStuff.md](https://github.com/Pianonic/Pianonic/blob/main/HelpfulStuff.md)**
 
 ---
 
-### 🎮 **Hobbies & Interests**  
-🎹 Piano | 🎧 Music Production | 🎮 Gaming  
+### 🎮 **Hobbies & Interests**
+<div align="center">
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jfa21n9zlnd88v0g63sqm9n9q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=jfa21n9zlnd88v0g63sqm9n9q&redirect=true)
+</div>
+
+🎹 Piano | 🎧 Music Production | 🎮 Gaming
 
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-pianonic__music-ff5500?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/pianonic_music)
 
 ---
 
-### 📊 **Stats**  
+### 📊 **Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pianonic&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=pianonic&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
@@ -70,6 +74,5 @@
 
 ---
 
-### ⚡ **Connect With Me**  
+### ⚡ **Connect With Me**
 [![Discord](https://img.shields.io/badge/Discord-%23616ae8.svg?logo=discord&logoColor=white)](https://discord.com/users/566263212077481984)
-
