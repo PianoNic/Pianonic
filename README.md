@@ -90,5 +90,7 @@
 
 ### ⚡ **Connect With Me**
 <div align="center">
-  ![Discord](https://img.shields.io/badge/Discord-%23616ae8.svg?logo=discord&logoColor=white)](https://discord.com/users/566263212077481984)
+  <a href="https://discord.com/users/566263212077481984">
+    <img src="https://img.shields.io/badge/Discord-%23616ae8.svg?logo=discord&logoColor=white" alt="Connect with me on Discord" />
+  </a>
 </div>
