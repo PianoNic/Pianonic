@@ -44,7 +44,6 @@
 | <img src="https://github.com/ArgonFetch/ArgonFetch/raw/main/assets/logo-simple.svg" width="70"/> | [**ArgonFetch**](https://github.com/Pianonic/ArgonFetch) | A powerful media downloader that supports multiple sources, making content retrieval seamless and easy. |
 | <img src="https://github.com/Pianonic/PianoNicsMusic/raw/main/image/Logo.png?raw=true" width="70"/> | [**PianoNicsMusic**](https://github.com/Pianonic/PianoNicsMusic) | My Discord music bot packed with awesome features to enhance your server's music experience. |
 | <img src="https://avatars.githubusercontent.com/u/146342978?s=200&v=4" width="70"/> | [**BBBaden Moodle Improvements**](https://github.com/BBBaden-Moodle-userscripts) | Enhancing Moodle with custom scripts and tools for a smoother and more productive experience. |
-| | | |
 | <img src="https://static-00.iconduck.com/assets.00/git-gui-icon-512x512-jfx5ogbu.png" width="70"/> | **More Projects**<br>[View all my repositories](https://github.com/Pianonic?tab=repositories) | A complete list of everything I’ve worked on—check it out for more tools, scripts, and ideas. |
 
 ---
