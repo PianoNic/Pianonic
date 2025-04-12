@@ -73,18 +73,14 @@
 ### 📊 **Stats**
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=jfa21n9zlnd88v0g63sqm9n9q&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jfa21n9zlnd88v0g63sqm9n9q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
-  <br/><br/> {/* Add some space */}
   <img src="https://github-readme-stats.vercel.app/api?username=pianonic&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=pianonic&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pianonic&show_icons=true&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br/><br/> {/* Add some space */}
+  <br/><br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=pianonic&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </a>
-  <br/><br/> {/* Add some space */}
+  <br/><br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=pianonic&bg_color=121212&color=ffffff&line=53b14f&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </a>
