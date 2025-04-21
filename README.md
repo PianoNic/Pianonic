@@ -40,6 +40,7 @@
 
 | Icon | Project | Description |
 |:----:|:--------|:------------|
+| <img src="https://raw.githubusercontent.com/Pianonic/CropTransparent/main/assets/CropTransparentBorder.png" width="70"/> | [**CropTransparent**](https://github.com/Pianonic/CropTransparent) | Automatically crops transparent edges from PNG, GIF, and WEBP images. Lightweight, fast, and mobile-friendly. |
 | <img src="https://github.com/Pianonic/DockiUp/raw/main/assets/DockiUpLogo.png" width="70"/> | [**DockiUp**](https://github.com/Pianonic/DockiUp) | Easily update Docker containers built from Git repositories with this lightweight and efficient tool. |
 | <img src="https://github.com/ArgonFetch/ArgonFetch/raw/main/assets/logo-simple.svg" width="70"/> | [**ArgonFetch**](https://github.com/Pianonic/ArgonFetch) | A powerful media downloader that supports multiple sources, making content retrieval seamless and easy. |
 | <img src="https://github.com/Pianonic/PianoNicsMusic/raw/main/image/Logo.png?raw=true" width="70"/> | [**PianoNicsMusic**](https://github.com/Pianonic/PianoNicsMusic) | My Discord music bot packed with awesome features to enhance your server's music experience. |
