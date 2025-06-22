@@ -3,7 +3,7 @@
 
   <strong>18-year-old apprentice exploring the world of coding & technology</strong>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=orange&style=flat)
+  ![Profile Views](https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=purple&style=flat)
   ![GitHub followers](https://img.shields.io/github/followers/PianoNic?label=Followers&style=social)
   ![GitHub User's stars](https://img.shields.io/github/stars/PianoNic?style=social)
   ![GitHub User's forks](https://img.shields.io/github/forks/PianoNic/PianoNic?style=social)
@@ -89,8 +89,6 @@
 
 ### ⚡ **Connect With Me**
 <div align="center">
-  <a href="https://discord.com/users/566263212077481984">
-    <img src="https://img.shields.io/badge/Discord-%23616ae8.svg?logo=discord&logoColor=white" alt="Connect with me on Discord" />
-  </a>
-   name: pianonic
+  <a href="https://discord.com/users/566263212077481984"><img src="https://img.shields.io/badge/Discord-%23616ae8.svg?logo=discord&logoColor=white" alt="Connect with me on Discord" /></a>
+  <span>name: pianonic</span>
 </div>
