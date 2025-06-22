@@ -3,7 +3,7 @@
 
   <strong>18-year-old apprentice exploring the world of coding & technology</strong>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=800080&style=flat)
+  ![Profile Views](https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=24207c&style=flat)
   ![GitHub followers](https://img.shields.io/github/followers/PianoNic?label=Followers&style=social)
   ![GitHub User's stars](https://img.shields.io/github/stars/PianoNic?style=social)
   ![GitHub User's forks](https://img.shields.io/github/forks/PianoNic/PianoNic?style=social)
