@@ -5,10 +5,10 @@
 
   ---
 
-  [![Website](https://img.shields.io/badge/Website-007ACC.svg?style=for-the-badge&logo=globe&logoColor=white)](https://pianonic.ch)
-  [![GitHub followers](https://img.shields.io/github/followers/PianoNic?style=for-the-badge&logo=github)](https://github.com/PianoNic)
-  [![GitHub User's stars](https://img.shields.io/github/stars/PianoNic?style=for-the-badge&logo=github)](https://github.com/PianoNic)
-  [![Profile Views](https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=24207c&style=for-the-badge)](https://github.com/PianoNic)
+  [![Website](https://img.shields.io/badge/Website-28A745.svg?style=for-the-badge&logo=globe&logoColor=white)](https://pianonic.ch)
+  [![GitHub followers](https://img.shields.io/github/followers/PianoNic?style=for-the-badge&logo=github&color=567CB6)](https://github.com/PianoNic)
+  [![GitHub User's stars](https://img.shields.io/github/stars/PianoNic?style=for-the-badge&logo=github&color=6f42c1)](https://github.com/PianoNic)
+  [![Profile Views](https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=DC3545&style=for-the-badge)](https://github.com/PianoNic)
 
 </div>
 
