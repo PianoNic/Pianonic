@@ -154,22 +154,24 @@ When I'm not coding, you can find me:
 
 <br/>
 
+<div align="center">
+  
 <table width="100%">
 <tr>
 <td width="50%">
 
-### 📈 Comprehensive Stats
 <img src="https://github-readme-stats.vercel.app/api?username=pianonic&show_icons=true&theme=github_dark&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&custom_title=PianoNic's%20GitHub%20Analytics" alt="GitHub Stats" />
 
 </td>
 <td width="50%">
 
-### 🎯 Language Distribution
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pianonic&show_icons=true&layout=compact&theme=github_dark&hide_border=true&border_radius=15&custom_title=Tech%20Stack%20Distribution" alt="Top Languages" />
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <div align="center">
 
