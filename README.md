@@ -5,6 +5,7 @@
 
   ---
 
+  [![Website](https://img.shields.io/badge/Website-007ACC.svg?style=for-the-badge&logo=globe&logoColor=white)](https://pianonic.ch)
   [![GitHub followers](https://img.shields.io/github/followers/PianoNic?style=for-the-badge&logo=github)](https://github.com/PianoNic)
   [![GitHub User's stars](https://img.shields.io/github/stars/PianoNic?style=for-the-badge&logo=github)](https://github.com/PianoNic)
   [![Profile Views](https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=24207c&style=for-the-badge)](https://github.com/PianoNic)
