@@ -12,15 +12,9 @@
 
 ---
 
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="28" role="img" aria-label="ABOUT ME">
-  <title>ABOUT ME</title>
-  <g shape-rendering="crispEdges">
-    <rect width="600" height="28" fill="#1b2932"/>
-  </g>
-  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
-    <text transform="scale(.1)" x="3000" y="175" textLength="5800" fill="#fff" font-weight="bold">ABOUT ME</text>
-  </g>
-</svg>
+<div align="center">
+    <img alt="header-gif" width="900" src="./assets/text.svg">
+</div>
 
 I'm a highly enthusiastic 18-year-old apprentice with a strong passion for **coding**, **technology**, and **music**. My journey currently involves deep diving into **C# (ASP.NET, EF Core)** and **Angular** for robust application development. I'm also actively exploring the exciting realms of **Arduino**, **3D Printing**, and **AI**, always eager to learn and build. As the owner of **[BBBaden Moodle Improvements](https://github.com/BBBaden-Moodle-userscripts)**, I'm dedicated to enhancing user experiences through innovative solutions.
 
