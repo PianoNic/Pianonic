@@ -63,56 +63,20 @@ I'm a highly enthusiastic 18-year-old apprentice with a strong passion for **cod
   <img alt="featured projects" width="900" src="./assets/gif/featured-projects.gif">
 </div>
 
-<table>
-<tr>
-<td width="50%">
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PianoNic/BadgeTrack/main/assets/logo.png" width="80"/>
-</div>
-
-### [BadgeTrack](https://github.com/PianoNic/BadgeTrack)
-A powerful service for generating beautiful visitor badges, enhancing GitHub profiles and more.
-
-**Tech:** `C#` `ASP.NET` `Web Development`
-
-</td>
-<td width="50%">
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Pianonic/CropTransparent/main/assets/CropTransparentBorder.png" width="80"/>
-</div>
-
-### [CropTransparent](https://github.com/Pianonic/CropTransparent)
-Automatically crops transparent edges from PNG, GIF, and WEBP images. Lightweight, fast, and mobile-friendly.
-
-**Tech:** `C#` `Image Processing` `Utility`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-<div align="center">
-  <img src="https://github.com/ArgonFetch/ArgonFetch/raw/main/assets/logo-simple.svg" width="80"/>
-</div>
-
-### [ArgonFetch](https://github.com/Pianonic/ArgonFetch)
-A powerful media downloader that supports multiple sources, making content retrieval seamless and easy.
-
-**Tech:** `C#` `Web Scraping` `Media Tools`
-
-</td>
-<td width="50%">
-<div align="center">
-  <img src="https://github.com/Pianonic/PianoNicsMusic/raw/main/image/Logo.png?raw=true" width="80"/>
-</div>
-
-### [PianoNicsMusic](https://github.com/Pianonic/PianoNicsMusic)
-My Discord music bot packed with awesome features to enhance your server's music experience.
-
-**Tech:** `C#` `Discord API` `Music Bot`
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/PianoNic/BadgeTrack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PianoNic&repo=BadgeTrack&theme=dark&bg_color=1a1a18" alt="BadgeTrack Repo Card">
+  </a>
+  <a href="https://github.com/Pianonic/CropTransparent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pianonic&repo=CropTransparent&theme=dark&bg_color=1a1a18" alt="CropTransparent Repo Card">
+  </a>
+  <a href="https://github.com/ArgonFetch/ArgonFetch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArgonFetch&repo=ArgonFetch&theme=dark&bg_color=1a1a18" alt="ArgonFetch Repo Card">
+  </a>
+  <a href="https://github.com/Pianonic/PianoNicsMusic">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pianonic&repo=PianoNicsMusic&theme=dark&bg_color=1a1a18" alt="PianoNicsMusic Repo Card">
+  </a>
+</p>
 
 ---
 
