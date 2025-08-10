@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-    <img alt="header-gif" width="900" src="./assets/text.svg">
+    <img alt="header-gif" width="900" src="./assets/texts.svg">
 </div>
 
 I'm a highly enthusiastic 18-year-old apprentice with a strong passion for **coding**, **technology**, and **music**. My journey currently involves deep diving into **C# (ASP.NET, EF Core)** and **Angular** for robust application development. I'm also actively exploring the exciting realms of **Arduino**, **3D Printing**, and **AI**, always eager to learn and build. As the owner of **[BBBaden Moodle Improvements](https://github.com/BBBaden-Moodle-userscripts)**, I'm dedicated to enhancing user experiences through innovative solutions.
