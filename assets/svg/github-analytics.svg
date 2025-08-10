@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="28" role="img" aria-label="Hobbies and Interests">
-  <title>HOBBIES AND INTERESTS</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="28" role="img" aria-label="Github Analytics">
+  <title>GITHUB ANALYTICS</title>
   <g shape-rendering="crispEdges">
     <rect width="600" height="28" fill="#1a1a18" />
   </g>
@@ -11,7 +11,7 @@
     font-size="100"
   >
     <text transform="scale(.1)" x="3000" y="175" fill="#fff" font-weight="bold">
-      HOBBIES AND INTERESTS
+      GITHUB ANALYTICS
     </text>
   </g>
 </svg>

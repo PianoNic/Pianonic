@@ -133,16 +133,19 @@ When I'm not coding, you can find me:
 
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-pianonic__music-ff5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/pianonic_music)
 
-### 🎵 Currently Listening on Spotify
+<div align="center">
+  <img alt="Currently Listening" width="900" src="./assets/gif/currently-listening.gif">
+</div>
+
 <div align="center">
    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=jfa21n9zlnd88v0g63sqm9n9q&redirect=true">
      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jfa21n9zlnd88v0g63sqm9n9q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
    </a>
 </div>
 
----
-
-## 📊 GitHub Analytics Dashboard
+<div align="center">
+  <img alt="Github Analytics" width="900" src="./assets/gif/github-analytics.gif">
+</div>
 
 <div align="center">
 
