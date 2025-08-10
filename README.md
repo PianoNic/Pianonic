@@ -63,22 +63,32 @@ I'm a highly enthusiastic 18-year-old apprentice with a strong passion for **cod
   <img alt="featured projects" width="900" src="./assets/gif/featured-projects.gif">
 </div>
 
-<p align="center">
-  <a href="https://github.com/PianoNic/BadgeTrack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PianoNic&repo=BadgeTrack&theme=dark&bg_color=1a1a18" alt="BadgeTrack Repo Card">
-  </a>
-  <a href="https://github.com/Pianonic/CropTransparent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pianonic&repo=CropTransparent&theme=dark&bg_color=1a1a18" alt="CropTransparent Repo Card">
-  </a>
-  <a href="https://github.com/ArgonFetch/ArgonFetch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArgonFetch&repo=ArgonFetch&theme=dark&bg_color=1a1a18" alt="ArgonFetch Repo Card">
-  </a>
-  <a href="https://github.com/Pianonic/PianoNicsMusic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pianonic&repo=PianoNicsMusic&theme=dark&bg_color=1a1a18" alt="PianoNicsMusic Repo Card">
-  </a>
-</p>
-
----
+<table align="center" border="0" style="border:none;">
+  <tr>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/PianoNic/BadgeTrack">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PianoNic&repo=BadgeTrack&theme=dark&bg_color=1a1a18" alt="BadgeTrack Repo Card">
+      </a>
+    </td>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/Pianonic/CropTransparent">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pianonic&repo=CropTransparent&theme=dark&bg_color=1a1a18" alt="CropTransparent Repo Card">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/ArgonFetch/ArgonFetch">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArgonFetch&repo=ArgonFetch&theme=dark&bg_color=1a1a18" alt="ArgonFetch Repo Card">
+      </a>
+    </td>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/Pianonic/PianoNicsMusic">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pianonic&repo=PianoNicsMusic&theme=dark&bg_color=1a1a18" alt="PianoNicsMusic Repo Card">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img alt="Cheat Sheets" width="900" src="./assets/gif/cheat-sheets.gif">
