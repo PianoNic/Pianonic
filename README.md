@@ -116,13 +116,15 @@ My Discord music bot packed with awesome features to enhance your server's music
 
 ---
 
-## 📚 Cheat Sheets
+<div align="center">
+  <img alt="Cheat Sheets" width="900" src="./assets/gif/cheat-sheets.gif">
+</div>
 
 🔗 **[HelpfulStuff.md](https://github.com/Pianonic/Pianonic/blob/main/HelpfulStuff.md)** - A collection of useful notes and quick references.
 
----
-
-## 🎹 Hobbies & Interests
+<div align="center">
+  <img alt="Hobbies and interests" width="900" src="./assets/gif/hobbies-interests.gif">
+</div>
 
 When I'm not coding, you can find me:
 - 🎹 Playing the **Piano**
