@@ -1,3 +1,12 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+
+  <image href="./assets/filler.png" x="50" y="50" width="200" height="150" />
+
+  <image href="./assets/lightning.gif" x="300" y="100" width="250" height="180" />
+
+  <image href="./assets/filler.png" x="50" y="50" width="200" height="150" />
+</svg>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Sigmar&weight=900&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+PianoNic!" alt="Typing SVG" />
 
