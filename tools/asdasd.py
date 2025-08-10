@@ -191,7 +191,7 @@ def create_animated_jitter_gif(input_png_path, output_gif_path, frames=20,
         print(f"Error saving GIF: {e}")
 
 if __name__ == "__main__":
-    input_file = r"github-analytics.png" # Make sure you have this PNG file
+    input_file = r"connect-with-me.png" # Make sure you have this PNG file
 
     # --- EXAMPLE 1: Chromatic Jitter ONLY ---
     print("\n--- Example 1: Chromatic Jitter ONLY ---")

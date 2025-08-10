@@ -149,8 +149,6 @@ When I'm not coding, you can find me:
 
 <div align="center">
 
-### 🔥 Activity & Performance Metrics
-
 <img src="http://github-readme-streak-stats.herokuapp.com?user=pianonic&theme=github_dark&hide_border=true&date_format=j%20M%5B%20Y%5D&border_radius=15&ring=53b14f&fire=53b14f&currStreakLabel=53b14f" alt="GitHub Streak Stats" />
 
 </div>
@@ -177,24 +175,20 @@ When I'm not coding, you can find me:
 </div>
 
 <div align="center">
+  <img alt="Trophies" width="900" src="./assets/gif/trophies.gif">
+</div>
 
-### 🏆 GitHub Trophy Collection
 <img src="https://github-profile-trophy.vercel.app/?username=pianonic&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
 
+<div align="center">
+  <img alt="Activity Graph" width="900" src="./assets/gif/activity-graph.gif">
 </div>
 
-<div align="center">
-
-### 📊 Detailed Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pianonic&bg_color=0d1117&color=ffffff&line=53b14f&point=ffffff&area=true&hide_border=true&radius=15" alt="GitHub Activity Graph" />
 
-</div>
-
----
-
 <div align="center">
-
-## 💬 Let's Connect!
+  <img alt="Connect with me" width="900" src="./assets/gif/connect-with-me.gif">
+</div>
 
 I'm always open to collaborating on interesting projects, sharing knowledge, or just chatting about tech and music!
 
