@@ -1,6 +1,12 @@
 <div align="center">
     <img alt="header-gif" width="900" src="./assets/lightning_600x140.gif">
 </div>
+<div align="center">
+  <a href="https://pianonic.ch"><img src="https://img.shields.io/badge/Personal%20Website-black?style=for-the-badge&color=1b2932" alt="Personal Website"/></a>
+  <a href="my_hardware.md"><img src="https://img.shields.io/badge/My%20hardware-black?style=for-the-badge&color=1b2932" alt="My hardware"/></a>
+  <a href="my_server.md"><img src="https://img.shields.io/badge/My%20Server-black?style=for-the-badge&color=1b2932" alt="My Server"/></a>
+  <a href="mailto:contact@pianonic.ch"><img src="https://img.shields.io/badge/EMAIL-black?style=for-the-badge&color=1b2932" alt="E-Mail"/></a>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Sigmar&weight=900&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+PianoNic!" alt="Typing SVG" />
@@ -18,15 +24,7 @@
 
 ---
 
-<div align="center">
-  <!-- Custom badge row -->
-  [![Personal Website](https://img.shields.io/badge/Personal%20Website-black?style=for-the-badge&color=1b2932)](https://reazn.tech)
-  [![My hardware](https://img.shields.io/badge/My%20hardware-black?style=for-the-badge&color=1b2932)](my_hardware.md)
-  [![Server Stuff](https://img.shields.io/badge/Server%20Stuff-black?style=for-the-badge&color=1b2932)](https://github.com/florianruby/server)
-  [![GMAIL](https://img.shields.io/badge/GMAIL-black?style=for-the-badge&color=1b2932)](mailto:reazn.dev@gmail.com)
-  [![PEERLIST](https://img.shields.io/badge/PEERLIST-black?style=for-the-badge&color=1b2932&labelColor=1b2932)](https://peerlist.io/reazn)
-  [![Use dajia ;)](https://img.shields.io/badge/Use%20dajia%20%3B-black?style=for-the-badge&color=1b2932)](https://dajia.lol)
-</div>
+
 
 ---
 
