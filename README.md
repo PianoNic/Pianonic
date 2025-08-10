@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="header-gif" width="900" src="./assets/lightning_600x140.gif">
+    <img alt="header-gif" width="900" src="./assets/gif/lightning_600x140.gif">
 </div>
 <div align="center">
   <a href="https://pianonic.ch"><img src="https://img.shields.io/badge/Personal%20Website-black?style=for-the-badge&color=%2300000000" alt="Personal Website"/></a>
@@ -11,13 +11,13 @@
 </div>
 
 <div align="center">
-  <img alt="about me" width="900" src="./assets/about-me.svg">
+  <img alt="about me" width="900" src="./assets/gif/about-me.gif">
 </div>
 
 I'm a highly enthusiastic 18-year-old apprentice with a strong passion for **coding**, **technology**, and **music**. My journey currently involves deep diving into **C# (ASP.NET, EF Core)** and **Angular** for robust application development. I'm also actively exploring the exciting realms of **Arduino**, **3D Printing**, and **AI**, always eager to learn and build. As the owner of **[BBBaden Moodle Improvements](https://github.com/BBBaden-Moodle-userscripts)**, I'm dedicated to enhancing user experiences through innovative solutions.
 
 <div align="center">
-  <img alt="tech stack and skills" width="900" src="./assets/tech-stack-skills.svg">
+  <img alt="tech stack and skills" width="900" src="./assets/gif/tech-stack-skills.gif">
 </div>
 
 <table>
@@ -60,7 +60,7 @@ I'm a highly enthusiastic 18-year-old apprentice with a strong passion for **cod
 </table>
 
 <div align="center">
-  <img alt="featured projects" width="900" src="./assets/featured-projects.svg">
+  <img alt="featured projects" width="900" src="./assets/gif/featured-projects.gif">
 </div>
 
 <table>
