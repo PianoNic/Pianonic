@@ -6,25 +6,9 @@
   <a href="my_hardware.md"><img src="https://img.shields.io/badge/My%20hardware-black?style=for-the-badge&color=1b2932" alt="My hardware"/></a>
   <a href="my_server.md"><img src="https://img.shields.io/badge/My%20Server-black?style=for-the-badge&color=1b2932" alt="My Server"/></a>
   <a href="mailto:contact@pianonic.ch"><img src="https://img.shields.io/badge/EMAIL-black?style=for-the-badge&color=1b2932" alt="E-Mail"/></a>
+  <a><img src="https://img.shields.io/badge/visitors:%203.7k-black?style=for-the-badge&color=1b2932" alt="visitors"/></a>
+  <img src="https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=2341d7&style=pixel">
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sigmar&weight=900&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+PianoNic!" alt="Typing SVG" />
-
-  ### 🎶 18-year-old apprentice exploring coding, tech, & music 🚀
-
-  ---
-
-  [![Website](https://img.shields.io/badge/Website-2341d7.svg?style=for-the-badge&logo=globe&logoColor=white)](https://pianonic.ch)
-  [![GitHub followers](https://img.shields.io/github/followers/PianoNic?style=for-the-badge&logo=github&color=2341d7)](https://github.com/PianoNic)
-  [![GitHub User's stars](https://img.shields.io/github/stars/PianoNic?style=for-the-badge&logo=github&color=2341d7)](https://github.com/PianoNic)
-  [![Profile Views](https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=2341d7&style=for-the-badge)](https://github.com/PianoNic)
-
-</div>
-
----
-
-
 
 ---
 
