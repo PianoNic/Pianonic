@@ -181,7 +181,7 @@ When I'm not coding, you can find me:
 <img src="https://github-profile-trophy.vercel.app/?username=pianonic&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
 
 <div align="center">
-  <img alt="Activity Graph" width="900" src="./assets/gif/activity-graph.gif">
+  <img alt="Activity Graph" width="900" src="./assets/gif/activity-graphs.gif">
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pianonic&bg_color=0d1117&color=ffffff&line=53b14f&point=ffffff&area=true&hide_border=true&radius=15" alt="GitHub Activity Graph" />
