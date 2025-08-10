@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="28" role="img" aria-label="Tech Stack and Skills">
+  <title>TECH STACK AND SKILLS</title>
+  <g shape-rendering="crispEdges">
+    <rect width="600" height="28" fill="#1a1a18" />
+  </g>
+  <g
+    fill="#fff"
+    text-anchor="middle"
+    font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+    text-rendering="geometricPrecision"
+    font-size="100"
+  >
+    <text transform="scale(.1)" x="3000" y="175" fill="#fff" font-weight="bold">
+      TECH STACK AND SKILLS
+    </text>
+  </g>
+</svg>

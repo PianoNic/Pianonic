@@ -10,17 +10,15 @@
   <img src="https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=2341d7&style=pixel">
 </div>
 
----
-
 <div align="center">
-    <img alt="header-gif" width="900" src="./assets/texts.svg">
+  <img alt="about me" width="900" src="./assets/about-me.svg">
 </div>
 
 I'm a highly enthusiastic 18-year-old apprentice with a strong passion for **coding**, **technology**, and **music**. My journey currently involves deep diving into **C# (ASP.NET, EF Core)** and **Angular** for robust application development. I'm also actively exploring the exciting realms of **Arduino**, **3D Printing**, and **AI**, always eager to learn and build. As the owner of **[BBBaden Moodle Improvements](https://github.com/BBBaden-Moodle-userscripts)**, I'm dedicated to enhancing user experiences through innovative solutions.
 
----
-
-## 🛠️ Tech Stack & Skills
+<div align="center">
+  <img alt="tech stack and skills" width="900" src="./assets/tech-stack-skills.svg">
+</div>
 
 <table>
 <tr>
@@ -61,9 +59,9 @@ I'm a highly enthusiastic 18-year-old apprentice with a strong passion for **cod
 </tr>
 </table>
 
----
-
-## 🌟 Featured Projects
+<div align="center">
+  <img alt="featured projects" width="900" src="./assets/featured-projects.svg">
+</div>
 
 <table>
 <tr>
