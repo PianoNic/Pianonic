@@ -6,13 +6,21 @@
   <a href="my_hardware.md"><img src="https://img.shields.io/badge/My%20hardware-black?style=for-the-badge&color=1b2932" alt="My hardware"/></a>
   <a href="my_server.md"><img src="https://img.shields.io/badge/My%20Server-black?style=for-the-badge&color=1b2932" alt="My Server"/></a>
   <a href="mailto:contact@pianonic.ch"><img src="https://img.shields.io/badge/EMAIL-black?style=for-the-badge&color=1b2932" alt="E-Mail"/></a>
-  <a><img src="https://img.shields.io/badge/visitors:%203.7k-black?style=for-the-badge&color=1b2932" alt="visitors"/></a>
+  <a href="https://github.com/PianoNic/BadgeTrack"><img src="https://img.shields.io/badge/visitors:%203.7k-black?style=for-the-badge&color=1b2932" alt="visitors"/></a>
   <img src="https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=2341d7&style=pixel">
 </div>
 
 ---
 
-## 💡 About Me
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="28" role="img" aria-label="ABOUT ME">
+  <title>ABOUT ME</title>
+  <g shape-rendering="crispEdges">
+    <rect width="600" height="28" fill="#1b2932"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+    <text transform="scale(.1)" x="3000" y="175" textLength="5800" fill="#fff" font-weight="bold">ABOUT ME</text>
+  </g>
+</svg>
 
 I'm a highly enthusiastic 18-year-old apprentice with a strong passion for **coding**, **technology**, and **music**. My journey currently involves deep diving into **C# (ASP.NET, EF Core)** and **Angular** for robust application development. I'm also actively exploring the exciting realms of **Arduino**, **3D Printing**, and **AI**, always eager to learn and build. As the owner of **[BBBaden Moodle Improvements](https://github.com/BBBaden-Moodle-userscripts)**, I'm dedicated to enhancing user experiences through innovative solutions.
 
