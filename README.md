@@ -1,6 +1,7 @@
 <div align="center">
     <img alt="header-gif" width="900" src="./assets/gif/lightning_600x140.gif">
 </div>
+
 <div align="center">
   <a href="https://pianonic.ch"><img src="https://img.shields.io/badge/Personal%20Website-black?style=for-the-badge&color=%2300000000" alt="Personal Website"/></a>
   <a href="my_hardware.md"><img src="https://img.shields.io/badge/My%20hardware-black?style=for-the-badge&color=%2300000000" alt="My hardware"/></a>
@@ -61,7 +62,10 @@ I'm a highly enthusiastic 18-year-old apprentice with a strong passion for **cod
   <img alt="Cheat Sheets" width="900" src="./assets/gif/cheat-sheets.gif">
 </div>
 
-🔗 **[HelpfulStuff.md](https://github.com/Pianonic/Pianonic/blob/main/HelpfulStuff.md)** - A collection of useful notes and quick references.
+<div align="center">
+  <a href="./HelpfulStuff.md"><img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&color=%2300000000" alt="Angular"/></a>
+  <a href="./HelpfulStuff.md"><img src="https://img.shields.io/badge/ASP%20Net-black?style=for-the-badge&color=%2300000000" alt="ASP Net"/></a>
+</div>
 
 <div align="center">
   <img alt="Hobbies and interests" width="900" src="./assets/gif/hobbies-interests.gif">
