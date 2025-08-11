@@ -22,7 +22,7 @@ I'm a highly enthusiastic 18-year-old apprentice with a strong passion for **cod
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,js,ts,dotnet,angular,html,css,sqlite,postgresql,arduino,git,docker,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=cs,py,js,ts,dotnet,angular,html,css,sqlite,postgresql,arduino,git,docker,vscode,visualstudio&theme=dark" />
   </a>
 </p>
 
