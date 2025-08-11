@@ -88,10 +88,9 @@ I'm a highly enthusiastic 18-year-old apprentice with a strong passion for **cod
   <img alt="Connect with me" width="900" src="./assets/gif/connect-with-me.gif">
 </div>
 
-I'm always open to collaborating on interesting projects, sharing knowledge, or just chatting about tech and music!
-
 <div align="center">
-
+  I'm always open to collaborating on interesting projects, sharing knowledge, or just chatting about tech and music!
+  <br/>
   <a href="https://discord.com/users/566263212077481984"><img src="https://img.shields.io/badge/Discord-%23616ae8.svg?logo=discord&logoColor=white&style=for-the-badge" alt="Connect with me on Discord" /></a>
   <br/>
   <span>Discord: pianonic</span>
@@ -101,5 +100,4 @@ I'm always open to collaborating on interesting projects, sharing knowledge, or 
 
   <sub>⭐ Feel free to star any repositories you find interesting!</sub>
   <sub>🚀 Building, learning, and creating, one step at a time!</sub>
-
 </div>
