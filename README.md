@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://pianonic.ch"><img src="https://img.shields.io/badge/Personal%20Website-black?style=for-the-badge&color=%2300000000" alt="Personal Website"/></a>
-  <a href="my_hardware.md"><img src="https://img.shields.io/badge/My%20hardware-black?style=for-the-badge&color=%2300000000" alt="My hardware"/></a>
-  <a href="my_server.md"><img src="https://img.shields.io/badge/My%20Server-black?style=for-the-badge&color=%2300000000" alt="My Server"/></a>
+  <a href="./pages/my-hardware.md"><img src="https://img.shields.io/badge/My%20hardware-black?style=for-the-badge&color=%2300000000" alt="My hardware"/></a>
+  <a href="./pages/my-server.md"><img src="https://img.shields.io/badge/My%20Server-black?style=for-the-badge&color=%2300000000" alt="My Server"/></a>
   <a href="mailto:contact@pianonic.ch"><img alt="Static Badge" src="https://img.shields.io/badge/EMAIL-black?style=for-the-badge&color=%2300000000"></a>
   <a href="https://github.com/PianoNic/BadgeTrack"><img src="https://img.shields.io/badge/visitors:%203.7k-black?style=for-the-badge&color=%2300000000" alt="visitors"/></a>
   <img src="https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=2341d7&style=pixel">
@@ -63,8 +63,8 @@ I'm a highly enthusiastic 18-year-old apprentice with a strong passion for **cod
 </div>
 
 <div align="center">
-  <a href="./HelpfulStuff.md"><img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&color=%2300000000" alt="Angular"/></a>
-  <a href="./HelpfulStuff.md"><img src="https://img.shields.io/badge/ASP%20Net-black?style=for-the-badge&color=%2300000000" alt="ASP Net"/></a>
+  <a href="./pages/angular.md"><img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&color=%2300000000" alt="Angular"/></a>
+  <a href="./pages/asp-net.md"><img src="https://img.shields.io/badge/ASP%20Net-black?style=for-the-badge&color=%2300000000" alt="ASP Net"/></a>
 </div>
 
 <div align="center">
