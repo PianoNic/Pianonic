@@ -89,7 +89,7 @@ I'm a highly enthusiastic 18-year-old apprentice with a strong passion for **cod
 </div>
 
 <div align="center">
-  I'm always open to collaborating on interesting projects, sharing knowledge, or just chatting about tech and music!
+  <span>I'm always open to collaborating on interesting projects, sharing knowledge, or just chatting about tech and music!</span>
   <br/>
   <br/>
   <br/>
