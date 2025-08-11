@@ -68,17 +68,6 @@ I'm a highly enthusiastic 18-year-old apprentice with a strong passion for **cod
 </div>
 
 <div align="center">
-  <img alt="Hobbies and interests" width="900" src="./assets/gif/hobbies-interests.gif">
-</div>
-
-When I'm not coding, you can find me:
-- 🎹 Playing the **Piano**
-- 🎧 Engaging in **Music Production**
-- 🎮 Enjoying **Gaming**
-
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-pianonic__music-ff5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/pianonic_music)
-
-<div align="center">
   <img alt="Currently Listening" width="900" src="./assets/gif/currently-listening.gif">
 </div>
 
@@ -88,36 +77,6 @@ When I'm not coding, you can find me:
    </a>
 </div>
 
-<div align="center">
-  <img alt="Github Analytics" width="900" src="./assets/gif/github-analytics.gif">
-</div>
-
-<div align="center">
-
-<img src="http://github-readme-streak-stats.herokuapp.com?user=pianonic&theme=github_dark&hide_border=true&date_format=j%20M%5B%20Y%5D&border_radius=15&ring=53b14f&fire=53b14f&currStreakLabel=53b14f" alt="GitHub Streak Stats" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-<table width="100%">
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pianonic&show_icons=true&theme=github_dark&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&custom_title=PianoNic's%20GitHub%20Analytics" alt="GitHub Stats" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pianonic&show_icons=true&layout=compact&theme=github_dark&hide_border=true&border_radius=15&custom_title=Tech%20Stack%20Distribution" alt="Top Languages" />
-
-</td>
-</tr>
-</table>
-
-</div>
 
 <div align="center">
   <img alt="Trophies" width="900" src="./assets/gif/trophies.gif">
@@ -126,24 +85,16 @@ When I'm not coding, you can find me:
 <img src="https://github-profile-trophy.vercel.app/?username=pianonic&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
 
 <div align="center">
-  <img alt="Activity Graph" width="900" src="./assets/gif/activity-graphs.gif">
-</div>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pianonic&bg_color=0d1117&color=ffffff&line=53b14f&point=ffffff&area=true&hide_border=true&radius=15" alt="GitHub Activity Graph" />
-
-<div align="center">
   <img alt="Connect with me" width="900" src="./assets/gif/connect-with-me.gif">
 </div>
 
 I'm always open to collaborating on interesting projects, sharing knowledge, or just chatting about tech and music!
 
+<div align="center">
+
 <a href="https://discord.com/users/566263212077481984"><img src="https://img.shields.io/badge/Discord-%23616ae8.svg?logo=discord&logoColor=white&style=for-the-badge" alt="Connect with me on Discord" /></a>
-<br/>
 <span>Discord: pianonic</span>
-<br/><br/>
 
 <sub>⭐ Feel free to star any repositories you find interesting!</sub>
-<br/>
 <sub>🚀 Building, learning, and creating, one step at a time!</sub>
-
 </div>
