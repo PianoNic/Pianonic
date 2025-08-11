@@ -91,11 +91,13 @@ I'm a highly enthusiastic 18-year-old apprentice with a strong passion for **cod
 <div align="center">
   I'm always open to collaborating on interesting projects, sharing knowledge, or just chatting about tech and music!
   <br/>
+  <br/>
   <a href="https://discord.com/users/566263212077481984"><img src="https://img.shields.io/badge/Discord-%23616ae8.svg?logo=discord&logoColor=white&style=for-the-badge" alt="Connect with me on Discord" /></a>
   <br/>
   <span>Discord: pianonic</span>
   <br/>
   <br/>
   <sub>⭐ Feel free to star any repositories you find interesting!</sub>
+  <br/>
   <sub>🚀 Building, learning, and creating, one step at a time!</sub>
 </div>
