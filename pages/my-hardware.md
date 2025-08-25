@@ -10,3 +10,13 @@
   <a href="https://github.com/PianoNic/BadgeTrack"><img src="https://img.shields.io/badge/visitors:%203.7k-black?style=for-the-badge&color=%2300000000" alt="visitors"/></a>
   <img src="https://komarev.com/ghpvc/?username=PianoNic&label=Profile%20views&color=2341d7&style=pixel">
 </div>
+
+<div align="center">
+<img src="../assets/png/pc.jpg" width="900" alt="My Pc"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/i7%2014700K-black?style=for-the-badge&color=%2300000000" alt="CPU"/>
+  <img src="https://img.shields.io/badge/RTX%205080-black?style=for-the-badge&color=%2300000000" alt="GPU"/>
+  <img src="https://img.shields.io/badge/32GB%20RAM-black?style=for-the-badge&color=%2300000000" alt="RAM"/>
+</div>
