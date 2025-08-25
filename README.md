@@ -78,13 +78,17 @@
 </div>
 
 
+<!--
 <div align="center">
   <img alt="Trophies" width="900" src="./assets/gif/trophies.gif">
 </div>
+-->
 
+<!--
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pianonic&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
 </div>
+-->
 
 <div align="center">
   <img alt="Connect with me" width="900" src="./assets/gif/connect-with-me.gif">
