@@ -18,5 +18,5 @@
 <div align="center">
   <img src="https://img.shields.io/badge/i7%2014700K-black?style=for-the-badge&color=%2300000000" alt="CPU"/>
   <img src="https://img.shields.io/badge/RTX%205080-black?style=for-the-badge&color=%2300000000" alt="GPU"/>
-  <img src="https://img.shields.io/badge/32GB%20RAM-black?style=for-the-badge&color=%2300000000" alt="RAM"/>
+  <img src="https://img.shields.io/badge/64GB%20RAM-black?style=for-the-badge&color=%2300000000" alt="RAM"/>
 </div>
