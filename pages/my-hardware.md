@@ -16,7 +16,23 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/i7%2014700K-black?style=for-the-badge&color=%2300000000" alt="CPU"/>
-  <img src="https://img.shields.io/badge/RTX%205080-black?style=for-the-badge&color=%2300000000" alt="GPU"/>
-  <img src="https://img.shields.io/badge/64GB%20RAM-black?style=for-the-badge&color=%2300000000" alt="RAM"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CPU-Intel_i7_14700K-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="CPU"/>
+        <br>
+        <sub><b>20 Cores | 28 Threads</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/GPU-RTX_5080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU"/>
+        <br>
+        <sub><b>Next-Gen Graphics</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/RAM-64GB_DDR5-E74C3C?style=for-the-badge&logo=corsair&logoColor=white" alt="RAM"/>
+        <br>
+        <sub><b>High Speed Memory</b></sub>
+      </td>
+    </tr>
+  </table>
 </div>
