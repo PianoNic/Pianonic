@@ -102,6 +102,8 @@
   <br/>
   <span>Discord: pianonic</span>
   <br/>
+  <span>Email: contact@pianonic.ch</span>
+  <br/>
   <br/>
   <sub>⭐ Feel free to star any repositories you find interesting!</sub>
   <br/>
