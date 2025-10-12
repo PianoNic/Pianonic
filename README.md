@@ -15,7 +15,7 @@
   <img alt="about me" width="900" src="./assets/gif/about-me.gif">
 </div>
 
-18 y/o apprentice with a passion for **coding**, **technology**, and **music**. My journey currently involves deep diving into **C# (ASP.NET, EF Core)** and **Angular** for robust application development. I'm also actively exploring the exciting realms of **Arduino**, **3D Printing**, and **AI**, always eager to learn and build. As the owner of **[BBBaden Moodle Improvements](https://github.com/BBBaden-Moodle-userscripts)**, I'm dedicated to enhancing user experiences through innovative solutions.
+19 y/o apprentice with a passion for **coding**, **technology**, and **music**. My journey currently involves deep diving into **C# (ASP.NET, EF Core)** and **Angular** for robust application development. I'm also actively exploring the exciting realms of **Arduino**, **3D Printing**, and **AI**, always eager to learn and build. As the owner of **[BBBaden Moodle Improvements](https://github.com/BBBaden-Moodle-userscripts)**, I'm dedicated to enhancing user experiences through innovative solutions.
 
 <div align="center">
   <img alt="tech stack and skills" width="900" src="./assets/gif/tech-stack-skills.gif">
