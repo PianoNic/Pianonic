@@ -107,5 +107,4 @@
   <br/>
   <sub>⭐ Feel free to star any repositories you find interesting!</sub>
   <br/>
-  <sub>🚀 Building, learning, and creating, one step at a time!</sub>
 </div>
