@@ -41,9 +41,9 @@
 </div>
 
 <div align="center">
-   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=jfa21n9zlnd88v0g63sqm9n9q&redirect=true">
-     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jfa21n9zlnd88v0g63sqm9n9q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
-   </a>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=jfa21n9zlnd88v0g63sqm9n9q&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jfa21n9zlnd88v0g63sqm9n9q&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light&bar_color=53b14f&bar_color_cover=false">
+  </a>
 </div>
 
 
