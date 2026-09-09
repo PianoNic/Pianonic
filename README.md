@@ -28,15 +28,6 @@
 </p>
 
 <div align="center">
-  <img alt="Cheat Sheets" width="900" src="./assets/gif/cheat-sheets.gif">
-</div>
-
-<div align="center">
-  <a href="./pages/angular.md"><img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&color=%2300000000" alt="Angular"/></a>
-  <a href="./pages/asp-net.md"><img src="https://img.shields.io/badge/ASP%20Net-black?style=for-the-badge&color=%2300000000" alt="ASP Net"/></a>
-</div>
-
-<div align="center">
   <img alt="Currently Listening" width="900" src="./assets/gif/currently-listening.gif">
 </div>
 
