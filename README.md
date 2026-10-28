@@ -15,7 +15,7 @@
   <img alt="about me" width="900" src="./assets/gif/about-me.gif">
 </div>
 
-19 y/o apprentice who loves coding, technology, and music. Right now I’m mainly working with C# (ASP.NET, EF Core) and Angular, but I also enjoy experimenting with Arduino, 3D printing, and AI. I like learning by building things and improving how stuff works.
+20 y/o apprentice who loves coding, technology, and music. Right now I’m mainly working with C# (ASP.NET, EF Core) and Angular, but I also enjoy experimenting with Arduino, 3D printing, and AI. I like learning by building things and improving how stuff works.
 
 <div align="center">
   <img alt="tech stack and skills" width="900" src="./assets/gif/tech-stack-skills.gif">
